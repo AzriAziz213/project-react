@@ -6,7 +6,7 @@ This repo contain a Login & Registration page created React Typescript. At the c
 
 + User Registration: Register one email and password.
 + User Login: Login with the last registered email and password.
-+ Redirection after Login: Upon successful, user will be redirected to another page.
++ Redirection after Login: Upon successful login, user will be redirected to another page.
 
 ## Limitation
 
